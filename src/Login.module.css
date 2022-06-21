@@ -1,0 +1,15 @@
+.container {
+  margin: 30vh auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-group {
+  display: flex;
+  margin-top: 1em;
+}
+
+.input-group label {
+  width: 5em;
+}
